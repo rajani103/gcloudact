@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/issues/tush-tr/gcloudact"> <img src="https://img.shields.io/github/forks/tush-tr/gcloudact"> <img src="https://img.shields.io/github/license/tush-tr/gcloudact"> <img src="https://img.shields.io/github/stars/tush-tr/gcloudact"> <a href="https://twitter.com/tush_tr604" target="blank"><img src="https://img.shields.io/twitter/follow/tush_tr604?logo=twitter&style=flat" alt="tush_tr604" /></a> <img src="https://img.shields.io/github/languages/count/tush-tr/gcloudact">
+<img src="https://img.shields.io/github/issues/rajani103/gcloudact"> <img src="https://img.shields.io/github/forks/rajani103/gcloudact"> <img src="https://img.shields.io/github/license/rajani103/gcloudact"> <img src="https://img.shields.io/github/stars/rajani103/gcloudact"> <a href="https://twitter.com/misalpavv" target="blank"><img src="https://img.shields.io/twitter/follow/misalpavv?logo=twitter&style=flat" alt="rajani103" /></a> <img src="https://img.shields.io/github/languages/count/tush-tr/gcloudact">
 
 <img src="assets/C.png">
 
